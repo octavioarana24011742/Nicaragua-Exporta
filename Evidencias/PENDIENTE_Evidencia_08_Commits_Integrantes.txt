@@ -1,0 +1,2 @@
+Después de que cada integrante realice al menos un commit, abrir el historial del repositorio y tomar una captura donde se vean los nombres/usuarios de los participantes y sus commits. Guardarla como:
+Evidencia_08_Commits_Integrantes.png

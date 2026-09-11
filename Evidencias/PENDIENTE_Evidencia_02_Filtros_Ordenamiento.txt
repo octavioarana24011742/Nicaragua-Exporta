@@ -1,0 +1,2 @@
+Tomar una captura directamente en Excel con la hoja Operaciones y los filtros desplegables visibles en los encabezados. Aplicar al menos un filtro u ordenamiento y guardar la captura con el nombre:
+Evidencia_02_Filtros_Ordenamiento.png

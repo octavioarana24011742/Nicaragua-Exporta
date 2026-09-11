@@ -1,0 +1,2 @@
+Cuando todos los colaboradores hayan aceptado la invitación, abrir Settings > Collaborators y tomar una captura donde se vean los integrantes agregados. Guardarla como:
+Evidencia_06_Colaboradores_GitHub.png
